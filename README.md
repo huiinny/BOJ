@@ -1,1 +1,1 @@
-# BaekJoon Solution
+# BaekJoon
