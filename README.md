@@ -1,2 +1,1 @@
-# BaekJoon
-https://www.acmicpc.net/
+# BaekJoon Solution
