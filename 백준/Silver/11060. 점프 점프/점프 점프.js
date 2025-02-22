@@ -17,7 +17,7 @@ function bfs() {
     while(queue.length) {
         const [num, cnt] = queue.shift(); 
 
-        for (let i=num+1; i<=num+jump[num] && i<N; i++) {
+        for (let i=num+1; i<=num+jump[num]; i++) {
             if (i === N-1) return cnt+1;
             if (!visited[i]) {
                 visited[i] = true;
